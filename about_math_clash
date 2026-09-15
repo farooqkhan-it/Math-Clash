@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms and Conditions - Math Clash</title>
+
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f4f7fb;
+    color: #333;
+    line-height: 1.8;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(0,0,0,.08);
+}
+
+h1 {
+    text-align: center;
+    color: #1565C0;
+    margin-bottom: 10px;
+}
+
+.date {
+    text-align: center;
+    color: #777;
+    margin-bottom: 40px;
+}
+
+h2 {
+    margin-top: 35px;
+    margin-bottom: 15px;
+    color: #222;
+    border-left: 5px solid #1565C0;
+    padding-left: 12px;
+}
+
+p {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+ul {
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+footer {
+    margin-top: 50px;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+    text-align: center;
+    color: #666;
+}
+
+a {
+    color: #1565C0;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 25px;
+        margin: 20px;
+    }
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Terms and Conditions</h1>
+
+<p class="date">
+<strong>Math Clash</strong><br>
+Last Updated: 15 September 2026
+</p>
+
+<p>
+Welcome to <strong>Math Clash</strong>. These Terms and Conditions ("Terms") govern your use of the Math Clash mobile application ("App"). By downloading, installing, accessing, or using the App, you acknowledge that you have read, understood, and agreed to be legally bound by these Terms. If you do not agree with any part of these Terms, you should immediately discontinue using the App.
+</p>
+
+<h2>1. About Math Clash</h2>
+
+<p>
+Math Clash is an educational mobile game designed to improve users' mathematical skills through interactive quizzes, challenges, timed levels, and engaging gameplay. The App is intended for educational and entertainment purposes only.
+</p>
+
+<p>
+The App may include arithmetic exercises, score tracking, achievements, leaderboards, and other educational features. These features may change over time as the application continues to improve.
+</p>
+
+<h2>2. Eligibility</h2>
+
+<p>
+By using Math Clash, you confirm that you are legally permitted to use mobile applications under the laws of your country.
+</p>
+
+<p>
+If you are under the age of 13 (or the minimum age required in your country), you should only use the App with the supervision and consent of a parent or legal guardian.
+</p>
+
+<h2>3. Acceptance of Terms</h2>
+
+<p>
+Your continued use of the App indicates your acceptance of these Terms. If you disagree with these Terms at any time, you must stop using the App immediately.
+</p>
+
+<h2>4. License to Use</h2>
+
+<p>
+We grant you a limited, non-exclusive, non-transferable, revocable license to download and use Math Clash solely for your personal, educational, and non-commercial purposes.
+</p>
+
+<p>You may not:</p>
+
+<ul>
+<li>Copy the App or any part of it.</li>
+<li>Modify or create derivative works.</li>
+<li>Reverse engineer or decompile the application.</li>
+<li>Sell, lease, rent, sublicense, or redistribute the App.</li>
+<li>Use the App for illegal activities.</li>
+<li>Attempt to bypass security or cheat game mechanics.</li>
+</ul>
+
+<h2>5. User Responsibilities</h2>
+
+<p>
+When using Math Clash, you agree to:
+</p>
+
+<ul>
+<li>Use the App responsibly.</li>
+<li>Not interfere with servers or network services.</li>
+<li>Not exploit bugs or vulnerabilities.</li>
+<li>Not use automated software, bots, or scripts.</li>
+<li>Respect the rights of other users.</li>
+<li>Comply with all applicable local laws.</li>
+</ul>
+
+<h2>6. Scores and Progress</h2>
+
+<p>
+Math Clash may save your game progress, achievements, or high scores either locally on your device or through supported Google Play services.
+</p>
+
+<p>
+We cannot guarantee that your progress will always be preserved, especially if the App is uninstalled, device data is cleared, or technical issues occur.
+</p>
+
+<h2>7. Advertisements</h2>
+
+<p>
+Math Clash may display advertisements provided by trusted third-party advertising partners such as Google AdMob.
+</p>
+
+<p>
+These advertisements help support the continued development of the App and allow us to provide many features free of charge.
+</p>
+
+<p>
+Third-party advertising providers may collect limited device information in accordance with their own privacy policies.
+</p>
+
+<h2>8. In-App Purchases</h2>
+
+<p>
+Some features, content, or upgrades may require optional in-app purchases.
+</p>
+
+<p>
+All purchases are processed securely through Google Play and are subject to Google's billing policies.
+</p>
+
+<p>
+Purchase decisions are subject to applicable laws and Google's refund policies.
+</p>
+
+<h2>9. Intellectual Property Rights</h2>
+
+<p>
+All intellectual property rights related to Math Clash—including but not limited to:
+</p>
+
+<ul>
+<li>Game design</li>
+<li>Source code</li>
+<li>Graphics</li>
+<li>Icons</li>
+<li>Animations</li>
+<li>Logos</li>
+<li>Music</li>
+<li>Sound effects</li>
+<li>Text</li>
+<li>User interface</li>
+</ul>
+
+<p>
+remain the exclusive property of the developer and are protected by applicable copyright and intellectual property laws.
+</p>
+
+<h2>10. Privacy</h2>
+
+<p>
+Your privacy is important to us.
+</p>
+
+<p>
+Our Privacy Policy explains how information may be collected, used, and protected while using Math Clash.
+</p>
+
+<p>
+By using the App, you also agree to our Privacy Policy.
+</p>
+
+<h2>11. Updates and Changes</h2>
+
+<p>
+We may release updates, bug fixes, security patches, feature improvements, or entirely new versions of Math Clash at any time.
+</p>
+
+<p>
+Some features may be modified, replaced, or discontinued without prior notice.
+</p>
+
+<h2>12. Availability</h2>
+
+<p>
+Although we strive to keep Math Clash available at all times, we do not guarantee uninterrupted access.
+</p>
+
+<p>
+Temporary interruptions may occur due to maintenance, server issues, software updates, or circumstances beyond our control.
+</p>
+
+<h2>13. Disclaimer of Warranties</h2>
+
+<p>
+Math Clash is provided on an "AS IS" and "AS AVAILABLE" basis.
+</p>
+
+<p>
+We make no warranties regarding:
+</p>
+
+<ul>
+<li>Accuracy of content</li>
+<li>Availability</li>
+<li>Performance</li>
+<li>Reliability</li>
+<li>Compatibility</li>
+<li>Error-free operation</li>
+</ul>
+
+<p>
+Your use of the App is entirely at your own risk.
+</p>
+
+<h2>14. Limitation of Liability</h2>
+
+<p>
+To the fullest extent permitted by law, the developer shall not be liable for:
+</p>
+
+<ul>
+<li>Loss of data</li>
+<li>Loss of progress</li>
+<li>Device malfunction</li>
+<li>Business interruption</li>
+<li>Indirect damages</li>
+<li>Special damages</li>
+<li>Consequential damages</li>
+<li>Financial losses resulting from the use of the App</li>
+</ul>
+
+<h2>15. Termination</h2>
+
+<p>
+We reserve the right to suspend or terminate access to Math Clash if users violate these Terms or engage in unlawful activities.
+</p>
+
+<h2>16. Governing Law</h2>
+
+<p>
+These Terms shall be governed by and interpreted according to the applicable laws of the jurisdiction in which the developer operates, without regard to conflict of law principles.
+</p>
+
+<h2>17. Changes to These Terms</h2>
+
+<p>
+We reserve the right to modify these Terms at any time.
+</p>
+
+<p>
+Updated versions will be published within the App or on our official website.
+</p>
+
+<p>
+Your continued use of Math Clash after updates become effective constitutes acceptance of the revised Terms.
+</p>
+
+<h2>18. Contact Information</h2>
+
+<p>
+If you have any questions, concerns, or suggestions regarding these Terms and Conditions, please contact us:
+</p>
+
+<p>
+<b>Email:</b> support@mathclash.app
+</p>
+
+<footer>
+
+<p>
+© 2026 Math Clash. All Rights Reserved.
+</p>
+
+</footer>
+
+</div>
+
+</body>
+</html>
